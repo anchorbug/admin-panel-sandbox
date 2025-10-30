@@ -32,13 +32,3 @@ The goal of this repo is to show how I can:
 - GitHub
 
 ---
-
-## How to run locally
-
-> These are sample commands — adjust ports/names to your local setup.
-
-1. Clone the project:
-
-   ```bash
-   git clone https://github.com/<your-username>/admin-panel-sandbox.git
-   cd admin-panel-sandbox
